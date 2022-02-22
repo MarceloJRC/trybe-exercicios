@@ -1,3 +1,10 @@
--HTML
--CSS
--JAVA SCRIPT
+O que eu vou aprender na Trybe:
+
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
+- PYTHON
+- MYSQL
+- JAVA SCRIPT
