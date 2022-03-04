@@ -1,23 +1,25 @@
 body{
-  background: rgba(4, 26, 88, 0.438);
+  background: rgba(0, 67, 70);
   font-size: 22px;
   font-family: 'Times New Roman', Times, serif;
+  color: rgb(169, 255, 226);
 }
 
 p{
+  color: aquamarine;
   font-size: 15;
   font-family: Helvetica, sans-serif;
 
 }
 #habilidades {
-  color: rgb(1, 111, 138);
+  color: rgb(198, 219, 228);
 }
 #links {
-  color: rgb(1, 111, 138);
+  color: rgb(198, 219, 228);
 }
 #biografia {
-  color: rgb(1, 111, 138);
+  color: rgb(198, 219, 228);
 }
 a{
-  color: rgb(9, 54, 51);
+  color: rgb(198, 219, 228);
 }
