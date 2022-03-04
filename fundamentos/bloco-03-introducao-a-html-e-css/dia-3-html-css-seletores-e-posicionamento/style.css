@@ -1,28 +1,25 @@
-.caixa {
-    color: white;
-    display: inline-block;
-    line-height: 50px;
-    text-align: center;
-    vertical-align: top;
-  }
-  
-  .width-and-height {
-    height: 50px;
-    width: 50px;
-  }
-  
-  /* insira na classe abaixo um padding de 20px para aplicá-lo aos itens B, C e D */
-  .padding {
-    padding: 20px;
-  }
-  
-  /* insira na classe abaixo uma margem de 30px para aplicá-la aos itens C e D */
-  .margin {
-    margin: 30px;
-  }
-  
-  /* insira na classe abaixo uma borda com valor '5px solid black' para aplicá-la ao item D */
-  .border {
-    border-width: 5px;
-    border-color: black;
-  }
+body{
+  background: rgba(0, 67, 70);
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(169, 255, 226);
+}
+
+p{
+  color: aquamarine;
+  font-size: 15;
+  font-family: Helvetica, sans-serif;
+
+}
+#habilidades {
+  color: rgb(198, 219, 228);
+}
+#links {
+  color: rgb(198, 219, 228);
+}
+#biografia {
+  color: rgb(198, 219, 228);
+}
+a{
+  color: rgb(198, 219, 228);
+}
